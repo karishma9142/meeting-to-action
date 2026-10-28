@@ -1,0 +1,9 @@
+Asha: Let's start. Ravi, is the login bug fixed?
+Ravi: No, the vendor API was down again. I will push it to next Friday, November 6th.
+Asha: Meera, did the pricing deck go out?
+Meera: Yes, I sent it on October 21st. It is done.
+Asha: There is still no decision on the payment provider. Razorpay or Stripe? We keep postponing this.
+Ravi: I still think we need more research.
+Asha: Fine, we will leave it. And the onboarding emails still have no owner.
+Asha: Meera, please prepare the Q4 report by Monday, November 2nd.
+Meera: Okay, will do.

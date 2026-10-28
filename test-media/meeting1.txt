@@ -1,0 +1,8 @@
+Asha: Okay team, let's start the sprint sync. Ravi, how is the login bug?
+Ravi: Still working on it. I will fix it by Friday, October 23rd.
+Meera: I will send the revised pricing deck to the client by Wednesday.
+Asha: We need to choose a payment provider, Stripe or Razorpay?
+Ravi: Razorpay has better UPI support, but Stripe has better documentation.
+Asha: Let's circle back on that later. Also, someone has to own the onboarding emails. Anyone?
+Meera: Not sure, let's see later.
+Asha: Okay, that's all for today.

@@ -1,0 +1,7 @@
+Asha: Let's start. Ravi, the login bug, is it done?
+Ravi: Sorry, no. The vendor still has not fixed their API. I will push it to November 20th.
+Asha: Meera, how is the Q4 report?
+Meera: I need more time. I will finish it by November 13th.
+Asha: The payment provider decision is still open. Razorpay or Stripe?
+Ravi: Let's decide next week.
+Asha: Ravi, please set up the staging server by Tuesday, November 10th.
