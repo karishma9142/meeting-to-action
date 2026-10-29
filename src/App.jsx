@@ -99,9 +99,9 @@ function MeetingView({ id }) {
           const [label, color] = STATUS[e.status] || STATUS.draft;
           return (
             <div key={i}>
-              <h3>To: {e.to} {e.status !== "sent" && <span className="badge" style={{ background: color }}>{label}</span>}</h3>
+              <h3>To: {e.to} {!["sent", "failed"].includes(e.status) && <span className="badge" style={{ background: color }}>{label}</span>}</h3>
               {e.toEmails?.length > 0 && <p className="muted">{e.toEmails.join(", ")}</p>}
-              {e.error && <p className="muted">{e.error}</p>}
+              {e.error && e.status !== "failed" && <p className="muted">{e.error}</p>}
               <p className="muted"><b>{e.subject}</b></p>
               <pre>{e.body}</pre>
               <div className="actions">
